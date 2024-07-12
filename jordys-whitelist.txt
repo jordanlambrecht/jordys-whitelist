@@ -8,6 +8,7 @@
 @@||qbittorrent.jordy.local
 @@||jordy.world^
 @@||metadata.provider.plex.tv
+@@||reelflix.xyz
 @@||desktop.docker.com
 @@||www.notion.so
 @@||gateway.icloud.com
