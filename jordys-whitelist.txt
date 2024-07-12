@@ -24,6 +24,7 @@
 @@||nexusapi-us1.dropcam.com
 @@||weather.nest.com
 @@||sportscult.org
+@@||get-bx.g.aaplimg.com
 @@||www.docspedia.world
 @@||api.nzbgeek.info
 @@||imap.gmail.com
@@ -33,6 +34,7 @@
 @@||api.nzbgeek.info
 @@||hawke.uno
 @@||upload.cx
+@@||mask.apple-dns.net
 @@||api.themoviedb.org
 @@||acsegateway.fe2.apple-dns.net
 @@||media-server.local
