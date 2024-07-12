@@ -15,6 +15,7 @@
 @@||mask-canary.icloud.com
 @@||global.quickconnect.to
 @@||ping.ui.com
+@@||homeassistant.local
 @@||raspberrypi.local
 @@||pixelbakery2.us3.quickconnect.to
 @@||ui.com
@@ -31,6 +32,7 @@
 @@||imap.gmail.com
 @@||milkie.cc
 @@||sportscult.org
+@@||abtorrents.me
 @@||api.nzbplanet.net
 @@||api.nzbgeek.info
 @@||hawke.uno
