@@ -75,3 +75,5 @@
 @@||watchtower.1password.com
 @@||version.home-assistant.io
 @@||smartdevicemanagement.googleapis.com
+@@||adobe.com^
+@@||www.adobe.com^
