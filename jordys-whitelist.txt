@@ -77,3 +77,9 @@
 @@||smartdevicemanagement.googleapis.com
 @@||adobe.com^
 @@||www.adobe.com^
+@@||my.1password.com
+@@||plex.direct^
+@@||drunkenslug.com
+@@||digitalcore.club
+@@||lencr.org^ #Let'sEncrypt
+@@||in-addr.arpa^
